@@ -42,4 +42,4 @@ dbutils.fs.ls("/mnt/mymount")
 # COMMAND ----------
 
 # DBTITLE 1,Unmount filesystem
-dbutils.fs.unmount("/mnt/mymount") 
+#dbutils.fs.unmount("/mnt/mymount") 
